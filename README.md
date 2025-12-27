@@ -13,12 +13,12 @@ To begin the experiment:
 * Take your CHILD--generated session data and compare to the opposite SIBLING's data (so, if MASTER, compare to RECEIVER, and if RECEIVER, compare to MASTER--generated data).
 * Load combined data into ANALYSIS subfolder and run the analysis script
 
-## PROCESS:
-# SYNC 1: Audio 
+# PROCESS:
+## SYNC 1: Audio 
 * Load .mov audio into DESKTOP and loop
 * Start at same time as iPad recording of .mov file
 
-# SYNC 2: Computers to Audio//secondarily to each other
+## SYNC 2: Computers to Audio//secondarily to each other
 [Note, I’ve still generated the effect when one program opened on one computer ~7 seconds faster than the other]
 * Then, start the MASTER and RECEIVER programs as close together as possible across two machines
     * If successful, analyze newly generated MASTER and RECEIVER PERSISTENCE FILES and
